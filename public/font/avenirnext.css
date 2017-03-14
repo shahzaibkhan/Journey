@@ -1,0 +1,18 @@
+	@font-face
+{
+	font-family:"Avenir Next";
+	src:url("4f32268f-fd86-4960-b72c-4bb1ba75ec6fd41d.eot?#iefix");
+	src:url("4f32268f-fd86-4960-b72c-4bb1ba75ec6fd41d.eot?#iefix") format("eot"),url("939cba03-5b40-4d01-9bc5-7589eca863db.woff") format("woff"),url("849bc5b9-a2ff-4343-977b-26ba8bd24a60.ttf") format("truetype"),url("f67fa3b5-c1d1-488f-8e60-a828b9ad56a4.svg#f67fa3b5-c1d1-488f-8e60-a828b9ad56a4") format("svg")
+}
+	@font-face
+{
+	font-family:"Avenir Next Demi";
+	src:url("12d643f2-3899-49d5-a85b-ff430f5fad15d41d.eot?#iefix");
+	src:url("12d643f2-3899-49d5-a85b-ff430f5fad15d41d.eot?#iefix") format("eot"),url("91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff") format("woff"),url("a0f4c2f9-8a42-4786-ad00-fce42b57b148.ttf") format("truetype"),url("99affa9a-a5e9-4559-bd07-20cf0071852d.svg#99affa9a-a5e9-4559-bd07-20cf0071852d") format("svg")
+}
+	@font-face
+{
+	font-family:"Avenir Next Bold";
+	src:url("dccb10af-07a2-404c-bfc7-7750e2716bc1d41d.eot?#iefix");
+	src:url("dccb10af-07a2-404c-bfc7-7750e2716bc1d41d.eot?#iefix") format("eot"),url("b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff") format("woff"),url("890bd988-5306-43ff-bd4b-922bc5ebdeb4.ttf") format("truetype"),url("ed104d8c-7f39-4e8b-90a9-4076be06b857.svg#ed104d8c-7f39-4e8b-90a9-4076be06b857") format("svg")
+}

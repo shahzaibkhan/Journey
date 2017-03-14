@@ -1,2 +1,2 @@
 # Journey
-Journey Page
+Basic Site using Node for routing with Express Engine.
